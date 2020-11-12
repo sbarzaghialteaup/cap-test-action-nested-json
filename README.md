@@ -4,7 +4,7 @@ How to implement an custom action that receive a nested JSON?
 
 `cds run`
 
-`launch `POST http://localhost:4004/say/upload` in test.http`
+Send `POST http://localhost:4004/say/upload` in `test.http`
 
 POST http://localhost:4004/say/upload HTTP/1.1
 Content-Type: application/json
