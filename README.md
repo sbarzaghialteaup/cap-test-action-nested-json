@@ -1,6 +1,6 @@
 # Getting Started
 
-How to implement an custom action that receive a nested JSON?
+How to implement a custom action that receive a nested JSON?
 
 `cds run`
 
